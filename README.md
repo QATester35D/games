@@ -1,4 +1,4 @@
 # tic-tac-toe
-Playing the Tic Tac Toe game
-
-Practicing python programming with creating the Tic-Tac-Toe game that interacts with the console for input and output for the game.
+Playing games - using Python programming to create some games:
+- Tic-Tac-Toe game that interacts with the console for input and output for the game.
+- Rock-Paper-Scissors game that also uses the console for input and output.
