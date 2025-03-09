@@ -1,5 +1,5 @@
 ####################################################################################################
-#Tic-Tac-Toe game run through the console.
+# Tic-Tac-Toe game run through the console.
 ####################################################################################################
 import os
 from helpers import drawBoard, check_turn, check_for_win
